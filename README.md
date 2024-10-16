@@ -42,7 +42,9 @@ In your other tab, click on my index.html; copy the file and paste it into your 
 
 ### QR Code 
 
-Apologies, this part might be a little more difficult as involves python packages but we will give it a try and if it doesn't work, I'm sorry we can do it on my computer for you; I'll till show you how. 
+![my qr code]([https://github.com/i-brnrd/ph11002/blob/main/qr.png?raw=true])
+
+Apologies, this part might be a little more difficult as involves python packages but we will give it a try and if it doesn't work, I'm sorry we can do it on my computer for you; I'll still show you how. 
 
 
-Install https://pypi.org/project/qrcode/ and use above address to get a QR code. Can 
+Install https://pypi.org/project/qrcode/ and use your deployment address (mine is https://i-brnrd.github.io/ph11002/ so it goes like user.github.io/repo) to make a qr- you can totally use commerical online qr makers too but now I can do this I don't know which one is good; but this one https://pssweb.manchester.ac.uk/tools/qrcode/ offered by Manchester seems safe enough. 
