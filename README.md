@@ -42,7 +42,7 @@ In your other tab, click on my index.html; copy the file and paste it into your 
 
 ### QR Code 
 
-![my qr code]([https://github.com/i-brnrd/ph11002/blob/main/qr.png?raw=true])
+![my qr code](https://github.com/i-brnrd/ph11002/blob/main/qr.png?raw=true)
 
 Apologies, this part might be a little more difficult as involves python packages but we will give it a try and if it doesn't work, I'm sorry we can do it on my computer for you; I'll still show you how. 
 
